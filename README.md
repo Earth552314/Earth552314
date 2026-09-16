@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 police
 ------
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9VtXIjRxjWl_hWG1PY9vjyT-lRTh3pqKBffOA1H9Jw&s=10 width="100" height="100" />
+src="![Uploading image.png…]()
+ width="100" height="100" />
 * 🌍  I'm based in Dubai
 
 <p align="left">
