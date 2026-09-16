@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 police
 ------
-src=" https://thumb.wikimedia.org/wikipedia/en/thumb/1/17/Lookism_Volume_1_Cover.jpg/250px-Lookism_Volume_1_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"width="100" height="100" />
+<img
+src="https://thumb.wikimedia.org/wikipedia/en/thumb/1/17/Lookism_Volume_1_Cover.jpg/250px-Lookism_Volume_1_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="100" height="100" />
 * 🌍  I'm based in Dubai
 
 <p align="left">
